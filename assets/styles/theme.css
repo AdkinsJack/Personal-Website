@@ -1,0 +1,29 @@
+/* User Scheme Preference: Dark inversions */
+@media (prefers-color-scheme: dark) {
+  .box {
+    color: var(--light);
+    background-color: var(--dark2);
+  }
+
+  .box.invert {
+    color: var(--dark);
+    background-color: var(--light);
+  }
+
+  /* cards */
+  .card {
+    border: 2px solid var(--primary);
+    box-shadow: var(--dark) 12px 12px 0px 0px;
+  }
+
+  .box.invert .card {
+    border: 2px solid var(--secondary);
+    box-shadow: var(--primary) 12px 12px 0px 0px;
+  }
+
+  input,
+  textarea {
+    color: var(--dark) !important;
+  }
+
+}
