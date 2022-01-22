@@ -23,8 +23,8 @@
 
 ## How To Use
 
-Simply navigate to [adkinsjack.com](https://www.adkinsjack.com)
-Check around the home page and explore the other pages on the top nav bar if you wish.
+* Simply navigate to [adkinsjack.com](https://www.adkinsjack.com)
+* Check around the home page and explore the other pages on the top nav bar if you wish.
 
 
 ## You may also like...
