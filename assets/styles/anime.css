@@ -19,18 +19,18 @@
   margin-bottom: -5%;
 }
 
-@media (min-width: 320px) {
+@media (min-width: 322px) {
   .animate-me {
-    transform: translate(-15%, 500%);
+    transform: translate(55%, 0%);
     margin-bottom: 0%;
     height: 1.1;
-    font-size: 4.5vw;
+    font-size: 4.1vw;
   }
 }
 
 @media (min-width: 800px) {
   .animate-me {
-    transform: translate(5%, -500%);
+    transform: translate(105%, -500%);
     margin-bottom: -7.5%;
     height: 5.4%;
     font-size: 2.2vw;
