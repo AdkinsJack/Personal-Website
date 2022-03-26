@@ -15,7 +15,7 @@
   /* cards */
   .card {
     border: 1px solid var(--alert);
-    box-shadow: rgba(240, 52, 46 / 30%) 12px 10px 12px 4px;
+    box-shadow: rgb(240 52 46 / 30%) 12px 10px 12px 4px;
   }
 
   .box.invert .card {
