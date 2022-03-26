@@ -170,7 +170,7 @@ textarea {
     transform: translateX(12px) translateY(12px);
   }
   100% {
-    box-shadow: var(--primary) 12px 12px 0px 0px;
+    box-shadow: rgb(240 52 46 / 30%) 12px 10px 12px 4px;
     transform: translateX(0px) translateY(0px);
   }
 }
@@ -181,7 +181,7 @@ textarea {
     transform: translateX(12px) translateY(12px);
   }
   100% {
-    box-shadow: var(--dark) 12px 12px 0px 0px;
+    box-shadow: rgb(0, 0, 0 / 50%) 12px 10px 12px 4px;
     transform: translateX(0px) translateY(0px);
   }
 }
