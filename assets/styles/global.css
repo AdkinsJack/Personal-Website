@@ -233,7 +233,7 @@ nav li a:focus {
 }
 
 nav .current {
-  border-bottom: 3px solid var(--secondary);
+  border-bottom: 3px solid var(--alert);
 }
 
 nav li button {
