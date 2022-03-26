@@ -10,15 +10,17 @@
     background-color: var(--light);
   }
 
+  
+  
   /* cards */
   .card {
     border: 1px solid var(--alert);
-    box-shadow: var(--alert) 12px 12px 0px 0px;
+    box-shadow: rgba(240, 52, 46 / 30%) 12px 10px 12px 4px;
   }
 
   .box.invert .card {
     border: 1px solid #000;
-    rgba(240, 52, 46 / 30%) 12px 10px 12px 4px;
+    box-shadow: rgba(0, 0, 0, 0.50) 12px 10px 12px 4px;
   }
   
 
@@ -28,3 +30,4 @@
   }
 
 }
+
