@@ -17,9 +17,10 @@
   }
 
   .box.invert .card {
-    border: 2px solid var(--secondary);
-    box-shadow: var(--primary) 12px 12px 0px 0px;
+    border: 1px solid #000;
+    box-shadow: rgba(0, 0, 0, 0.50) 12px 10px 12px 4px;
   }
+  
 
   input,
   textarea {
